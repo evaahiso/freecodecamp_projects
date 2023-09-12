@@ -1,0 +1,47 @@
+h1{
+  color: white;
+  margin: 1em auto;
+  text-align: center;
+}
+p{
+  color: white;
+  font-family: helvetica;
+  text-align: center;
+}
+form{
+  width: 60vw;
+  max-width: 500px;
+  min-width: 300px;
+  margin: 0 auto;
+  padding-bottom: 2em;
+  color: white;
+  border: none;
+  outline: none;
+}
+body{
+  background-color:rgb(0, 0, 70);
+  font-family: sans-serif;
+  padding: 20px;
+  border: none;
+  outline: none;
+}
+label{
+  display: block;
+  margin: 0.5rem 0;
+  colour: white;
+  border: none;
+  outline: none;
+}
+input{
+  display: inline;
+  margin: 10px 0 0 0;
+  width: 100%;
+  min-height: 2em;
+  border: none;
+  outline: none;
+}
+.inline{
+  width: unset;
+  margin: 0 0.5em 0 0;
+  vertical-align: middle;
+}
